@@ -1,1 +1,1 @@
-pyhash=0.9.3
+hashlib
