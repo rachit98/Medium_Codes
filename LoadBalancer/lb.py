@@ -6,7 +6,7 @@ from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
 scheduler = APScheduler()
-PORT = 5000
+PORT = 7979
 
 REQUESTS_IN_QUEUE = 0
 
